@@ -1,4 +1,5 @@
 ## Install code (in a new conda env)
+This assumes that `conda` is installed, probably through the [Anaconda program](https://www.anaconda.com/) already.
 We will install a fresh environment with all of the tools you will need for this tutorial.  
 Note that you may have another install of gmt already that could possibly clash with this.  
 
