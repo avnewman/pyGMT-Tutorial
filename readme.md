@@ -19,3 +19,4 @@ Within the notebook proceed with the following order:
 2) Mapping_projections.ipynb
 3) Mapping_Overlays.ipynb
 4) Shaded_Relief.ipynb
+5) Shaded_Relief-Earthquake.ipynb
