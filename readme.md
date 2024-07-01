@@ -7,7 +7,7 @@ My installation # using python.v3.12, and pygmt.v0.10.0
 
     # addition of specific ghostscript avoids issues with transparencies.  
     
-    conda create --name pygmt --channel conda-forge ipython ipykernel ghostscript=9.54.0 numpy pandas gmt pygmt cartopy elevation 
+    conda create --name pygmt --channel conda-forge ipython ipykernel numpy pandas gmt pygmt cartopy elevation 
    
 *You may want to remove prior `gmt` installs outsides of the python environment, as it may conflict.*
 
