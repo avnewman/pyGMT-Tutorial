@@ -4,7 +4,7 @@ We will install a fresh environment with all of the tools you will need for this
 Note that you may have another install of gmt already that could possibly clash with this.  
 
 ## My installation 
-    # using python.v3.12, and pygmt.v0.10.0
+    # using python.v3.12, and pygmt.v0.12.0
     conda create --name pygmt --channel conda-forge ipython ipykernel numpy pandas gmt pygmt cartopy elevation 
    
 *You may want to remove prior `gmt` installs outsides of the python environment, as it may conflict.*
