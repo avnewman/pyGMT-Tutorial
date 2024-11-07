@@ -5,7 +5,7 @@ Note that you may have another install of gmt already that could possibly clash 
 
 ## My installation 
     # tested using python.v3.13, and pygmt.v0.13.0
-    conda create --name pygmt --channel conda-forge ipython ipykernel numpy pandas gmt pygmt cartopy elevation 
+    conda create --name pygmt --channel conda-forge ipython ipykernel jupyter numpy pandas gmt pygmt cartopy elevation 
    
 *You may want to remove prior `gmt` installs outsides of the python environment, as it may conflict.*
 
